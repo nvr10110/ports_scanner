@@ -9,7 +9,7 @@ Subdomain Enumeration – Resolves common subdomains (`www`, `mail`, `api`, `blo
 Beautiful Output – Styled tables and banners with `rich`, `pyfiglet`, and `colorama`  
 
 # Output
-
+![image alt](https://github.com/nvr10110/ports_scanner/blob/0eab99c01a1835666a17e92b79a8eb69fd5edac9/Img1.png)
 # Author
 VINAYAK_RAJ
 Built with ❤️ and Python!
